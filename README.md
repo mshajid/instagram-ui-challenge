@@ -33,7 +33,7 @@ This internship is provided by [CyberDude Networks Pvt. Ltd.](https://youtube.co
 
 ## Technologies Used
 
-HTML 5 | Tailwind CSS | Tailwind CLI
+HTML 5 | Tailwind CSS | Vite
 
 ## Features
 
